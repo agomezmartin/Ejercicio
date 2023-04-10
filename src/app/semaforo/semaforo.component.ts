@@ -51,7 +51,8 @@ export class SemaforoComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit(): void { // Los métodos que se desarrollen aquí se ejecutarán
+  //después de cargar todos los estilos y ejecutar cualquier directiva
   }
 
 }
